@@ -1,0 +1,34 @@
+"Unlittwotexture"
+{
+	"$model" 1
+	"$basetexture" "models/props_combine/cit_beacon"
+	"$texture2" "models/props_combine/cit_plasma2"
+	"$translucent" "1"
+	"$additive" 1
+	"$nodecal" 1
+	"$nocull" 1
+
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$basetexturetransform"
+			"texturescrollrate" .12
+			"texturescrollangle" 90
+		}
+		"TextureScroll"
+		{
+			"texturescrollvar" "$texture2transform"
+			"texturescrollrate" .1
+			"texturescrollangle" 20
+		}
+
+		"Sine"
+		{
+			"sineperiod" ".1"
+			"sinemin" .8
+			"sinemax" 1
+			"resultVar" "$alpha"
+		}
+	}
+}

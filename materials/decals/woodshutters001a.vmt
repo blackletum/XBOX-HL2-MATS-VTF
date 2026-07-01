@@ -1,0 +1,19 @@
+//"LightmappedGeneric"
+//{
+	// Original shader: BaseTimesLightmap
+	//"$basetexture" "Wood/woodshutters001a"
+	//"$surfaceprop" "wood"
+	//"%keywords" "c17downtown,wasteland"
+//}
+"LightmappedGeneric"
+{
+	// Original shader: DecalBaseTimesLightmapVertexAlphaBlend
+	"$translucent" 1
+	"$basetexture" "Decals/woodshutters001a"
+//	"$vertexcolor" 1
+//	"$vertexalpha" 1
+	"$decal" 1
+	"$decalscale" 0.25
+//	"$decalfadeduration" 0.50
+//	"$decalfadetime" 5.00
+}

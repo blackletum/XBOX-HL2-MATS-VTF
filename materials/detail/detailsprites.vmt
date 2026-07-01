@@ -1,0 +1,8 @@
+"Detail"
+{
+	"$basetexture" "detail/detailsprites"
+	"$alphatesttexture" "detailalphatexture"
+	"$nocull" 1
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+}

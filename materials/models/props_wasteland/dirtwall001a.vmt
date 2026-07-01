@@ -1,0 +1,6 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "nature/dirtwall001a"
+	"$model" 1
+	"$surfaceprop" "boulder"
+}

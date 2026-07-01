@@ -1,0 +1,7 @@
+"unlitgeneric"
+{
+	"$additive" 1
+	"$basetexture" "_rt_WaterReflection"
+	"$ignorez" 1
+	"$nocull" 1
+}

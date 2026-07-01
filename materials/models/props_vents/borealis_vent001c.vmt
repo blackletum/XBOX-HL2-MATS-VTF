@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "Models/props_vents/borealis_vent001c"
+	"$surfaceprop" "metal"
+	"$nocull" 1
+}
+
+

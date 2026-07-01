@@ -1,0 +1,8 @@
+"Occlusion"
+{
+	"$basetexture" "black"	
+	"%noToolTexture" 1
+	"$writez" 0
+	"$additive" 1
+	"$nofog" 1
+}

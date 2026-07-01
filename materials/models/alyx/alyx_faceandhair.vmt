@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitMaskedEnvMappedTexture
+	"$basetexture" "models/Alyx/alyx_faceandhair"
+	"$halflambert" 1
+	"$nodecal" "1"
+}

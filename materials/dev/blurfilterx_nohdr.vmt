@@ -1,0 +1,6 @@
+"BlurFilter_XBox"
+{
+	"$frametexture" "_rt_WaterReflection"
+	"$blury"	"0"
+	"%noToolTexture" 1
+}

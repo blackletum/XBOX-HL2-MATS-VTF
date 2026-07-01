@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "black"	
+	"%noToolTexture" 1
+	"$writez" 0
+	"$nofog" 1
+}

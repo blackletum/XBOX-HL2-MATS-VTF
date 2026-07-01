@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/Stalker/stalker_sheet"
+	"$selfillum" 1
+	
+	// No need to comment this out, but it screws up my reports
+//	"VertexLitGeneric_DX9"
+//	{
+//		"$bumpmap" "models/Stalker/stalker_sheet_normal"
+//	}
+}

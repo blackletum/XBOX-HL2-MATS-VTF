@@ -1,0 +1,5 @@
+"Downsample"
+{
+	"$SOURCEMRTRENDERTARGET" "_rt_FullFrameFB"
+	"%noToolTexture" 1
+}
